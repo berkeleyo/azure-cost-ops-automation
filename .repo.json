@@ -1,0 +1,10 @@
+{
+  "description": "Budgets, alerts, auto-shutdown, and stale resource detection scripts for cost control.",
+  "topics": [
+    "azure",
+    "cost-management",
+    "automation",
+    "powershell"
+  ],
+  "created": "2025-10-15"
+}
